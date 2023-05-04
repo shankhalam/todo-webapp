@@ -8,7 +8,9 @@ def add_todo():
     todos.append(todo)
     functions.write_todos(todos)
 
-st.title("ToDo - Web")
+st.set_page_config(page_title="ToDo-Web")
+
+st.title("ToDo-Web")
 st.subheader("Organise your tasks with Todo Web or Todo Desktop App")
 
 
