@@ -1,4 +1,5 @@
 Buy groceries.
-Eat Food.
-Code my Program.
-Go to Office.
+Write python codes
+Eat food
+Have food
+Have tea
